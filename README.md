@@ -26,11 +26,12 @@ Explainability: SHAP plots to visualize feature importance.
 Open Command Prompt (CMD)  
 Navigate to your project folder:  
 cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay  
+ 
+Run the Django development server : python manage.py runserver   
+
 
 Project Details:  
 Student Name: Pranathi K  
 College: Samskruti college of engineering and technology
-
 Branch & Year: B.Tech, 3rd Year
-
 Course: Computer Science Engineering(Data Science)
